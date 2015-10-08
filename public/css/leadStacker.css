@@ -1,0 +1,17 @@
+
+div#banner {
+    top: 0;
+    left: 0;
+    width: 800;
+}
+div#banner-content {
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #636363;
+    color: #fff;
+}
+
+body {
+    background-color: #fff;
+}
