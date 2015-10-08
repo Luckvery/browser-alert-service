@@ -22,3 +22,8 @@ then surf on over to view in browser:
 
 ### **Mock Client**
  Uses [socket.io](http://socket.io), [timeplan](https://www.npmjs.com/package/timeplan), [throttled-request](https://www.npmjs.com/package/throttled-request), and [chance](https://www.npmjs.com/package/chance) to generate fake client data.
+
+ ### **Development**
+ Used [browsersync](http://www.browsersync.io) in the beginning to set up html and then [nodemon](http://nodemon.io) after for everything else.
+
+
